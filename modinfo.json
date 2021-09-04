@@ -1,7 +1,7 @@
 {
 	"name": "TiktaalikDreamings Realistic Weapon Pack",
 	"description": "Intended to add some vaguely more realistic weapons from history instead of the very fantasy cliche things in the game.  Weights will be lower, in some cases by a lot, and fatigue use will be lower as well.  But those will be offset by damage reductions.  Grotesque oversized weapons make little sense vs humans, but those fantasy weapons have a use vs dragons after all.\nAt the moment contains only a single handed 12-13th century arming sword and a later greatsword based on the Gallowglass mercenary styles.",
-	"changeNote": "More Bec De Corbin work",
+	"changeNote": "More Bec De Corbin work - recompile for fatal erroring",
 	"author": "Tiktaalik Dreaming",
 	"authorUrl": "",
 	"versionMajor": 0,
